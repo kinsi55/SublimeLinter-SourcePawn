@@ -5,10 +5,10 @@
 SublimeLinter-SourcePawn
 ================================
 
-This linter plugin for [SublimeLinter][docs] provides an interface to [spcomp](https://www.sourcemod.net/). It will be used with files that have the “Pawn / [SourcePawn](https://github.com/Dillonb/SublimeSourcePawn)” syntax.
+This linter plugin for [SublimeLinter][http://www.sublimelinter.com/en/latest/index.html] provides an interface to [spcomp](https://www.sourcemod.net/). It will be used with files that have the “Pawn / [SourcePawn](https://github.com/Dillonb/SublimeSourcePawn)” syntax.
 
 ## Installation
-SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
+SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][http://www.sublimelinter.com/en/latest/installation.html].
 
 ### Linter installation
 Before using this plugin, you must ensure that `spcomp` is installed on your system. To install `spcomp`, do the following:
